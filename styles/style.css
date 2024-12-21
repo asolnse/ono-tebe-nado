@@ -103,7 +103,7 @@ html {
   text-transform: uppercase;
   letter-spacing: 0.3em;
   padding-top: 165px;
-  padding-right: 50px;
+  padding-right: 21px;
   padding-left: 50px;
   margin-bottom: 113.6px;
   z-index: 2;
@@ -141,14 +141,6 @@ html {
   border: 1px solid #fff;
   background-color: transparent;
   min-width: 256px;
-}
-
-.letter-spacing-extended {
-  letter-spacing: 0.6em;
-  }
-
-.no-letter-spacing {
-  letter-spacing: 0em;
 }
 
 .aligned-text {
@@ -322,7 +314,6 @@ html {
   flex-direction: column;
   gap: 24px;
   grid-column-start: 2;
-  min-height: 312px;
   margin-bottom: 180px;
 }
 
@@ -334,7 +325,6 @@ html {
   padding-left: 50px;
   padding-right: 50px;
   padding-bottom: 82px;
-  min-height: 180px;
   height: 100%;
 }
 
@@ -372,7 +362,6 @@ html {
   display: flex;
   justify-content: space-between;
   width: 240px;
-  min-height: 48px;
   flex-direction: row;
   list-style: none;
 }
